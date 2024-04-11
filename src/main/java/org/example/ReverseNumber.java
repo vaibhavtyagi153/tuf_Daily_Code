@@ -19,7 +19,8 @@ public class ReverseNumber {
 
 
     public static void main(String[] args) {
-        int input = 9378;
+        //scenario: when first digit is non zero and rest are zero
+        int input = 2;
         int k = reverseInt(input);
         System.out.println("The value of rev int : " + k);
     }
