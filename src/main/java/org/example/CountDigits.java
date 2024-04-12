@@ -30,9 +30,9 @@ public class CountDigits {
 
     public static void main(String[] args) {
         int n = 3131;
-        //System.out.println("The number of digits in " + n + " is : " + count_digit_int(n));
+        System.out.println("The number of digits in " + n + " is : " + count_digit_int(n));
         //System.out.println("The number of digits in " + n + " is : " + count_digit_string(n));
-        System.out.println("The number of digits in " + n + " is : " + count_digit_log(n));
+        //System.out.println("The number of digits in " + n + " is : " + count_digit_log(n));
 
 
     }
